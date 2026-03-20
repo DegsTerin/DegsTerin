@@ -26,7 +26,7 @@ Full Stack Developer with a special focus on **back-end** and **databases**. Wit
 My career path includes:
 - **Infrastructure & DevOps**: Windows Server, Linux, Virtualisation, Active Directory, Docker, Kubernetes
 - **Databases**: PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
-- **Full Stack Development**: Node.js, React, Python, Java, TypeScript
+- **Full Stack Development**: Node.js, JavaScript, TypeScript, React, Python, C#
 - **Cloud & Scalability**: AWS, Azure, CI/CD, GitHub Actions
 
 I work in mission-critical environments, optimising performance, implementing security and always seeking scalable architectures. Open to international opportunities and global collaborations.
@@ -43,7 +43,7 @@ I work in mission-critical environments, optimising performance, implementing se
 <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,ts,html,css,tailwind,webpack,vite&theme=dark" />
 
 **Backend:**
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,dotnet,go,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,python,dotnet,go,php&theme=dark" />
 
 **Databases:**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
