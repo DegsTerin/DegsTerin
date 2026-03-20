@@ -1,61 +1,102 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DegsTerin;Full+Stack+Developer;IT+Infrastructure;Welcome+to+my+Universe!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DegsTerin;Full+Stack+Developer;IT+Analyst;Infrastructure+Architect;Problem+Solver;Welcome!" />
 </h1>
 
 <div align="center">
   
-  ### IT Analyst | Full Stack Developer | Infrastructure Specialist 🚀
- 
+  [![](https://img.shields.io/badge/🟢%20Open%20to%20Work-Available%20Now-success?style=flat-square&labelColor=1f6feb)](https://www.linkedin.com/in/brunnaraujo/)
+  [![](https://img.shields.io/badge/📍%20Location-Brazil%2FEU%2FGlobal-informational?style=flat-square&labelColor=1f6feb)](https://github.com/DegsTerin)
+  [![](https://komarev.com/ghpvc/?username=DegsTerin&style=flat-square&color=0891b2)](https://github.com/DegsTerin)
+
+  ### 🚀 IT Analyst | Full Stack Developer | Infrastructure Architect | Database Engineer
+
   <p align="center">
-    <a href="mailto:Brunn.Araujo@Outlook.com">
+    <a href="mailto:Brunn.Araujo@Outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/brunnaraujo/">
+    <a href="https://www.linkedin.com/in/brunnaraujo/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/DegsTerin">
+    <a href="https://github.com/DegsTerin" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
 
-## 🤘 About Me
+---
 
-Full Stack Developer with a special focus on **back-end** and **databases**. With solid experience in **IT Infrastructure**, **Systems Administration** and **SAP Basis**, I combine deep technical knowledge with modern development.
+## 💼 Professional Summary
 
-My career path includes:
-- **Infrastructure & DevOps**: Windows Server, Linux, Virtualisation, Active Directory, Docker, Kubernetes
-- **Databases**: PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
-- **Full Stack Development**: Node.js, JavaScript, TypeScript, React, Python, C#
-- **Cloud & Scalability**: AWS, Azure, CI/CD, GitHub Actions
+Versatile **IT Analyst and Full Stack Developer** with a proven track record in building scalable solutions across **mission-critical environments**. Specialising in **backend architecture**, **database optimisation**, and **infrastructure automation**. 
 
-I work in mission-critical environments, optimising performance, implementing security and always seeking scalable architectures. Open to international opportunities and global collaborations.
+With **years of hands-on experience** in enterprise IT, I've transformed complex technical challenges into elegant, performant solutions. My expertise spans the entire technology stack—from cloud infrastructure to database design, and from backend APIs to modern frontend applications.
 
-> _"Technology is not just about code, it's about solving real problems and creating value."_
+**🎯 What I Bring:**
+- 🏗️ **Enterprise Architecture** — Designing scalable, resilient systems
+- 🔐 **Security & Performance** — Implementing best practices in critical environments  
+- 🚀 **Full Stack Mastery** — End-to-end solution development
+- ⚡ **Automation & DevOps** — Streamlining deployments and infrastructure management
+- 📊 **Data Excellence** — Database design, optimisation, and administration
+
+> _"I don't just write code; I architect solutions that solve real-world problems and deliver measurable value."_
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
 
 <div align="center">
-
-**Frontend:** 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,ts,html,css,tailwind,webpack,vite&theme=dark" />
-
-**Backend:**
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,python,dotnet,go,php&theme=dark" />
-
-**Databases:**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-
-**Infrastructure & DevOps:**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,jenkins,aws,azure&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,ts,javascript,html,css,tailwind,webpack,vite&theme=dark" />
+  
+  **Specialisation:** React, TypeScript, Modern UI/UX Implementation
 </div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Services</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,dotnet,go,php&theme=dark" />
+  
+  **Specialisation:** Node.js + TypeScript, Microservices, REST APIs, WebSockets
+</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Data</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+  
+  **Specialisation:** PostgreSQL, SQL Server, Oracle (DBA-level), NoSQL Solutions
+</div>
+</details>
+
+<details open>
+<summary><b>☁️ Infrastructure & DevOps</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab,jenkins,aws,azure&theme=dark" />
+  
+  **Specialisation:** Containerisation, CI/CD Pipelines, Cloud Architecture, Server Admin
+</div>
+</details>
+
+<details open>
+<summary><b>🔐 Enterprise Systems</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /> + SAP Basis, Active Directory, Virtualisation, Networking
+  
+  **Specialisation:** Infrastructure Management, System Administration, IT Operations
+</div>
+</details>
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 Performance Metrics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DegsTerin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
