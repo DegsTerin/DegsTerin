@@ -1,29 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DegsTerin;Full+Stack+Developer;IT+Analyst;Infrastructure+Architect;Problem+Solver;Welcome!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;I'm+DegsTerin;Full+Stack+Developer;"/>
 </h1>
 
 <div align="center">
   
-  [![](https://img.shields.io/badge/🟢%20Open%20to%20Work-Available%20Now-success?style=flat-square&labelColor=1f6feb)](https://www.linkedin.com/in/brunnaraujo/)
-  [![](https://img.shields.io/badge/📍%20Location-Brazil%2FEU%2FGlobal-informational?style=flat-square&labelColor=1f6feb)](https://github.com/DegsTerin)
-  [![](https://komarev.com/ghpvc/?username=DegsTerin&style=flat-square&color=0891b2)](https://github.com/DegsTerin)
+  [![Email](https://img.shields.io/badge/Email--red)](https://github.com/DegsTerin)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn--green)](https://www.linkedin.com/in/brunnaraujo/)
+  [![Sponsor](https://img.shields.io/badge/Sponsor--blue?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DegsTerin)
 
-  ### 🚀 IT Analyst | Full Stack Developer | Infrastructure Architect | Database Engineer
-
-  <p align="center">
-    <a href="mailto:Brunn.Araujo@Outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/brunnaraujo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/DegsTerin" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-</div>
-
----
+# Full Stack Developer 🚀
 
 ## 💼 Professional Summary
 
@@ -39,6 +24,8 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 - 📊 **Data Excellence** — Database design, optimisation, and administration
 
 > _"I don't just write code; I architect solutions that solve real-world problems and deliver measurable value."_
+
+> _"Technology is not just about code, it's about solving real problems and creating value."_
 
 ---
 
@@ -112,7 +99,7 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
     <td width="50%">
       <h3 align="center">📊 Interactive Data Analytics</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Data+Analytics" width="100%" alt="Data Analytics" />
+        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" width="100%" alt="Data Analytics" />
       </div>
       <p align="center">
         Interactive data analysis platform with advanced visualisations.
@@ -123,7 +110,7 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
     <td width="50%">
       <h3 align="center">🎮 Maths Quiz Game</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Quiz+Game" width="100%" alt="Quiz Game" />
+        <img src="https://github.com/DegsTerin/Maths_Quiz_Game/blob/main/simulation/wokwi.png?raw=true" width="100%" alt="Quiz Game" />
       </div>
       <p align="center">
         Interactive mathematics game with modern interface.
@@ -136,7 +123,7 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
     <td width="50%">
       <h3 align="center">🏛️ Theotimus</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/300x200?text=Theotimus" width="100%" alt="Theotimus" />
+        <img src="https://github.com/DegsTerin/Theotimus/blob/main/assets/theotimus.onrender.com_index3.png?raw=true" width="100%" alt="Theotimus" />
       </div>
       <p align="center">
         Full stack application with scalable architecture.
