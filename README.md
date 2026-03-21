@@ -10,6 +10,8 @@
 
 # Full Stack Developer 🚀
 
+</div>
+
 ## 💼 Professional Summary
 
 Versatile **IT Analyst and Full Stack Developer** with a proven track record in building scalable solutions across **mission-critical environments**. Specialising in **backend architecture**, **database optimisation**, and **infrastructure automation**. 
@@ -35,9 +37,9 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <summary><b>🎨 Frontend Development</b></summary>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,ts,javascript,html,css,tailwind,webpack,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css,html,react,typescript&theme=dark" />
   
-  **Specialisation:** React, TypeScript, Modern UI/UX Implementation
+  **Specialisation:** TypeScript, React, Modern UI/UX Implementation
 </div>
 </details>
 
@@ -45,9 +47,9 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <summary><b>⚙️ Backend & Services</b></summary>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,python,dotnet,go,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python&theme=dark" />
   
-  **Specialisation:** Node.js + TypeScript, Microservices, REST APIs, WebSockets
+  **Specialisation:** JavaScript, Node.js, Python, Microservices, REST APIs, WebSockets
 </div>
 </details>
 
@@ -55,9 +57,9 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <summary><b>🗄️ Databases & Data</b></summary>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark" />
   
-  **Specialisation:** PostgreSQL, SQL Server, Oracle (DBA-level), NoSQL Solutions
+  **Specialisation:** Oracle, PostgreSQL, SQL Server, NoSQL Solutions
 </div>
 </details>
 
@@ -65,9 +67,9 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <summary><b>☁️ Infrastructure & DevOps</b></summary>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,github,gitlab,jenkins,aws,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes&theme=dark" />
   
-  **Specialisation:** Containerisation, CI/CD Pipelines, Cloud Architecture, Server Admin
+  **Specialisation:** CI/CD Pipelines, Cloud Architecture, Containerisation, Server Admin
 </div>
 </details>
 
@@ -75,9 +77,10 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <summary><b>🔐 Enterprise Systems</b></summary>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" /> + SAP Basis, Active Directory, Virtualisation, Networking
+  <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" /> 
   
   **Specialisation:** Infrastructure Management, System Administration, IT Operations
+    
 </div>
 </details>
 
