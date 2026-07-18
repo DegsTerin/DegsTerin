@@ -71,5 +71,5 @@ Based in Brazil and open to opportunities in Brazil, Portugal, the United Kingdo
 
 - LinkedIn: [linkedin.com/in/brunnaraujo](https://www.linkedin.com/in/brunnaraujo/)
 - Email: [Brunn.Araujo@Outlook.com](mailto:Brunn.Araujo@Outlook.com)
-- Location: Brazil | Open to Portugal, UK, Europe and remote international opportunities
+- Location: Brazil | Open to UK, Europe and remote international opportunities
 
