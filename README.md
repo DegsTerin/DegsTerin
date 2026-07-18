@@ -1,75 +1,155 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;I'm+DegsTerin;Full+Stack+Developer;"/>
+</h1>
+
 <div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email--red)](https://github.com/DegsTerin)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn--green)](https://www.linkedin.com/in/brunnaraujo/)
+  [![Sponsor](https://img.shields.io/badge/Sponsor--blue?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DegsTerin)
 
-# Bruno Araujo
-
-### Senior IT Infrastructure & DevOps Engineer | SAP Basis, DBA, Cloud & Automation
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunnaraujo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunnaraujo/)
-[![Email](https://img.shields.io/badge/Email-Brunn.Araujo%40Outlook.com-2F6F4E?logo=microsoftoutlook&logoColor=white)](mailto:Brunn.Araujo@Outlook.com)
-[![GitHub followers](https://img.shields.io/github/followers/DegsTerin?label=Followers&style=flat&color=24292f)](https://github.com/DegsTerin?tab=followers)
+# Full Stack Developer 🚀
 
 </div>
 
-## Professional Profile
+## 💼 Professional Summary
 
-IT infrastructure and DevOps professional with 15+ years of experience supporting mission-critical enterprise environments. My background connects SAP Basis, database administration, systems infrastructure, monitoring, incident response and operational automation.
+Versatile **IT Analyst and Full Stack Developer** with a proven track record in building scalable solutions across **mission-critical environments**. Specialising in **backend architecture**, **database optimisation**, and **infrastructure automation**. 
 
-I have worked in large-scale environments supporting 22,500+ users, 120+ servers and 15+ SAP systems, including ECC, S/4HANA, BW, PI and Solution Manager. I build practical tools with PowerShell, Python and JavaScript to improve visibility, repeatability and operational efficiency.
+With **years of hands-on experience** in enterprise IT, I've transformed complex technical challenges into elegant, performant solutions. My expertise spans the entire technology stack—from cloud infrastructure to database design, and from backend APIs to modern frontend applications.
 
-Based in Brazil and open to opportunities in Brazil, Portugal, the United Kingdom, Europe and remote international teams.
+**🎯 What I Bring:**
+- 🏗️ **Enterprise Architecture** — Designing scalable, resilient systems
+- 🔐 **Security & Performance** — Implementing best practices in critical environments  
+- 🚀 **Full Stack Mastery** — End-to-end solution development
+- ⚡ **Automation & DevOps** — Streamlining deployments and infrastructure management
+- 📊 **Data Excellence** — Database design, optimisation, and administration
 
-## Core Expertise
+> _"I don't just write code; I architect solutions that solve real-world problems and deliver measurable value."_
 
-| Area | Technologies and practices |
-|---|---|
-| SAP and enterprise systems | SAP Basis, SAP HANA, SAP NetWeaver, ECC, S/4HANA, BW, PI, Solution Manager |
-| Databases | PostgreSQL, Oracle Database, Microsoft SQL Server, MySQL, monitoring, performance and recovery |
-| Infrastructure | Linux, Windows Server, Active Directory, VMware, backup, disaster recovery and high availability |
-| DevOps and automation | PowerShell, Python, Bash, Git, GitHub Actions, CI/CD and operational automation |
-| Operations and reliability | Monitoring, incident management, root cause analysis, troubleshooting and business continuity |
-| Application development | JavaScript, Node.js, React, REST APIs and data visualisation |
+> _"Technology is not just about code, it's about solving real problems and creating value."_
 
-## Selected Work
+---
+
+## 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=css,html,react,typescript&theme=dark" />
+  
+  **Specialisation:** TypeScript, React, Modern UI/UX Implementation
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Services</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python&theme=dark" />
+  
+  **Specialisation:** JavaScript, Node.js, Python, Microservices, REST APIs, WebSockets
+</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Data</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark" />
+  
+  **Specialisation:** Oracle, PostgreSQL, SQL Server, NoSQL Solutions
+</div>
+</details>
+
+<details open>
+<summary><b>☁️ Infrastructure & DevOps</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes&theme=dark" />
+  
+  **Specialisation:** CI/CD Pipelines, Cloud Architecture, Containerisation, Server Admin
+</div>
+</details>
+
+<details open>
+<summary><b>🔐 Enterprise Systems</b></summary>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" /> 
+  
+  **Specialisation:** Infrastructure Management, System Administration, IT Operations
+    
+</div>
+</details>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DegsTerin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegsTerin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 🏆 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>PgNotifier</h3>
-      <a href="https://github.com/DegsTerin/pg-notifier">
-        <img src="https://raw.githubusercontent.com/DegsTerin/pg-notifier/main/docs/images/PgNotifier.png" alt="PgNotifier interface" width="100%" />
-      </a>
-      <p>PostgreSQL monitoring tool for Windows built with PowerShell. It monitors services and connectivity, detects restarts through PID changes, supports multiple instances and provides notifications, logs and operator actions.</p>
-      <p><a href="https://github.com/DegsTerin/pg-notifier"><strong>Repository and documentation</strong></a></p>
+    <td width="50%">
+      <h3 align="center">📊 Interactive Data Analytics</h3>
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" width="100%" alt="Data Analytics" />
+      </div>
+      <p align="center">
+        Interactive data analysis platform with advanced visualisations.
+        <br />
+        <a href="https://github.com/DegsTerin/Interactive-Data-Analytics"><strong>🔗 View Repository</strong></a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Interactive Data Analytics</h3>
-      <a href="https://github.com/DegsTerin/Interactive-Data-Analytics">
-        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" alt="Interactive Data Analytics dashboard" width="100%" />
-      </a>
-      <p>Interactive IT salary analytics dashboard built with Python, Streamlit, Pandas and Plotly, with filters for experience, employment type, company size, work model and role comparison.</p>
-      <p><a href="https://dev-dashboard.streamlit.app/"><strong>Live demo</strong></a> | <a href="https://github.com/DegsTerin/Interactive-Data-Analytics"><strong>Repository</strong></a></p>
+    <td width="50%">
+      <h3 align="center">🎮 Maths Quiz Game</h3>
+      <div align="center">
+        <img src="https://github.com/DegsTerin/Maths_Quiz_Game/blob/main/simulation/wokwi.png?raw=true" width="100%" alt="Quiz Game" />
+      </div>
+      <p align="center">
+        Interactive mathematics game with modern interface.
+        <br />
+        <a href="https://github.com/DegsTerin/Maths_Quiz_Game"><strong>🔗 View Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏛️ Theotimus</h3>
+      <div align="center">
+        <img src="https://github.com/DegsTerin/Theotimus/blob/main/assets/theotimus.onrender.com_index3.png?raw=true" width="100%" alt="Theotimus" />
+      </div>
+      <p align="center">
+        Full stack application with scalable architecture.
+        <br />
+        <a href="https://github.com/DegsTerin/Theotimus"><strong>🔗 View Repository</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
-## Engineering Approach
+---
 
-- Start from the operational problem and define observable success criteria.
-- Automate repeatable work while preserving logging, recovery and operator control.
-- Treat monitoring, documentation, testing and deployment as part of the solution.
-- Keep public projects reproducible and free of confidential enterprise information.
+## 🐍 My Contributions
 
-## Current Focus
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DegsTerin&theme=dracula" />
+</div>
 
-- Infrastructure and database monitoring automation
-- PostgreSQL operations, backup and recovery tooling
-- CI/CD pipelines for PowerShell and Python projects
-- Linux observability with Prometheus, Grafana and Alertmanager
-- Infrastructure as Code labs with documented architecture
+---
 
-## Contact
+<div align="center" size="100px">
+  <sub>Made with 💻 and dedication by <a href="https://github.com/DegsTerin">DegsTerin</a>
 
-- LinkedIn: [linkedin.com/in/brunnaraujo](https://www.linkedin.com/in/brunnaraujo/)
-- Email: [Brunn.Araujo@Outlook.com](mailto:Brunn.Araujo@Outlook.com)
-- Location: Brazil | Open to UK, Europe and remote international opportunities
+[![GitHub](https://img.shields.io/github/followers/DegsTerin?label=follow&style=social)](github.com/DegsTerin)</sub>
 
+</div>
