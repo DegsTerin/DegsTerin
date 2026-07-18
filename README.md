@@ -88,10 +88,18 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 
 ## 📊 Performance Metrics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DegsTerin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegsTerin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DegsTerin&theme=dracula" alt="GitHub contribution overview" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DegsTerin&theme=dracula" alt="GitHub profile statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DegsTerin&theme=dracula" alt="Languages across public repositories" />
+</p>
+
+<p align="center">
+  <sub>Live engineering activity across public repositories. Private work is counted by GitHub without exposing repository details.</sub>
+</p>
 
 ---
 
@@ -100,25 +108,33 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Interactive Data Analytics</h3>
+      <h3 align="center">🛡️ PgNotifier</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" width="100%" alt="Data Analytics" />
+        <img src="https://raw.githubusercontent.com/DegsTerin/pg-notifier/main/docs/images/PgNotifier.png" width="100%" alt="PgNotifier Windows tray application" />
       </div>
       <p align="center">
-        Interactive data analysis platform with advanced visualisations.
+        PostgreSQL reliability monitor for Windows with health checks, restart detection, desktop alerts, diagnostic logs and installer packaging.
         <br />
-        <a href="https://github.com/DegsTerin/Interactive-Data-Analytics"><strong>🔗 View Repository</strong></a>
+        <img src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell 5.1+" />
+        <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <br />
+        <a href="https://github.com/DegsTerin/pg-notifier"><strong>🔎 Explore Repository</strong></a>
+        ·
+        <a href="https://github.com/DegsTerin/pg-notifier/releases/tag/v1.0.17"><strong>📦 Download v1.0.17</strong></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 Maths Quiz Game</h3>
+      <h3 align="center">📊 Interactive Data Analytics</h3>
       <div align="center">
-        <img src="https://github.com/DegsTerin/Maths_Quiz_Game/blob/main/simulation/wokwi.png?raw=true" width="100%" alt="Quiz Game" />
+        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" width="100%" alt="Interactive Data Analytics dashboard" />
       </div>
       <p align="center">
-        Interactive mathematics game with modern interface.
+        Streamlit dashboard for exploring IT salary data through interactive filters, KPIs and Plotly visualisations.
         <br />
-        <a href="https://github.com/DegsTerin/Maths_Quiz_Game"><strong>🔗 View Repository</strong></a>
+        <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python analytics" />
+        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit dashboard" />
+        <br />
+        <a href="https://github.com/DegsTerin/Interactive-Data-Analytics"><strong>🔎 Explore Repository</strong></a>
       </p>
     </td>
   </tr>
@@ -129,21 +145,30 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
         <img src="https://github.com/DegsTerin/Theotimus/blob/main/assets/theotimus.onrender.com_index3.png?raw=true" width="100%" alt="Theotimus" />
       </div>
       <p align="center">
-        Full stack application with scalable architecture.
+        Bilingual e-commerce platform built with Node.js, Express, PostgreSQL and Stripe, with Playwright coverage for critical purchase flows.
         <br />
-        <a href="https://github.com/DegsTerin/Theotimus"><strong>🔗 View Repository</strong></a>
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js and Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Stripe-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL and Stripe" />
+        <br />
+        <a href="https://github.com/DegsTerin/Theotimus"><strong>🔎 Explore Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Maths Quiz Game</h3>
+      <div align="center">
+        <img src="https://github.com/DegsTerin/Maths_Quiz_Game/blob/main/simulation/wokwi.png?raw=true" width="100%" alt="Arduino Maths Quiz Game simulation" />
+      </div>
+      <p align="center">
+        Embedded Arduino game with adaptive difficulty, LCD scoring, TM1637 displays and responsive LED feedback.
+        <br />
+        <img src="https://img.shields.io/badge/Arduino-Embedded-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino embedded project" />
+        <img src="https://img.shields.io/badge/C%2B%2B-Hardware-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ hardware project" />
+        <br />
+        <a href="https://github.com/DegsTerin/Maths_Quiz_Game"><strong>🔎 Explore Repository</strong></a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DegsTerin&theme=dracula" />
-</div>
 
 ---
 
