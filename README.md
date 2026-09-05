@@ -1,180 +1,106 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;I'm+DegsTerin;Full+Stack+Developer;"/>
-</h1>
+# Bruno Araújo · DegsTerin
 
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email--red)](https://github.com/DegsTerin)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn--green)](https://www.linkedin.com/in/brunnaraujo/)
-  [![Sponsor](https://img.shields.io/badge/Sponsor--blue?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DegsTerin)
+**Full Stack Developer · Backend, databases and applied AI**
 
-# Full Stack Developer 🚀
+[LinkedIn](https://www.linkedin.com/in/brunnaraujo/) · [GitHub projects](https://github.com/DegsTerin?tab=repositories) · [Sponsor my work](https://github.com/sponsors/DegsTerin)
 
-</div>
+I build applications that connect operational workflows, databases and clear user interfaces. My background in IT operations and server networking shapes how I approach persistence, failure handling and deployment.
 
-## 💼 Professional Summary
+My current work centres on **C#/.NET, TypeScript, React and PostgreSQL**, with projects in workforce operations, retrieval-augmented generation and database observability. The examples below link directly to demonstrations, implementation and tests.
 
-Versatile **IT Analyst and Full Stack Developer** with a proven track record in building scalable solutions across **mission-critical environments**. Specialising in **backend architecture**, **database optimisation**, and **infrastructure automation**. 
+## Featured projects
 
-With **years of hands-on experience** in enterprise IT, I've transformed complex technical challenges into elegant, performant solutions. My expertise spans the entire technology stack—from cloud infrastructure to database design, and from backend APIs to modern frontend applications.
+### [Shift-Flow](https://github.com/DegsTerin/Shift-Flow) · Operations management
 
-**🎯 What I Bring:**
-- 🏗️ **Enterprise Architecture** — Designing scalable, resilient systems
-- 🔐 **Security & Performance** — Implementing best practices in critical environments  
-- 🚀 **Full Stack Mastery** — End-to-end solution development
-- ⚡ **Automation & DevOps** — Streamlining deployments and infrastructure management
-- 📊 **Data Excellence** — Database design, optimisation, and administration
+**TypeScript · Next.js · React · Express · PostgreSQL · Prisma**
 
-> _"I don't just write code; I architect solutions that solve real-world problems and deliver measurable value."_
+A workspace for coordinating shifts, activities, ownership and reporting. Dashboards, Kanban views and audit records connect daily operations with permission-aware administration.
 
-> _"Technology is not just about code, it's about solving real problems and creating value."_
+The repository includes company-scoped access rules, transactional user management and automated browser checks. An ASP.NET Core compatibility host explores incremental migration through a separate local runtime profile.
 
----
+[**Try the demonstration**](https://shift-flow-degsterin.onrender.com/) · [Architecture and setup](https://github.com/DegsTerin/Shift-Flow#architecture) · [Release checks](https://github.com/DegsTerin/Shift-Flow/actions/workflows/release-gates.yml)
 
-## 🛠️ Technical Arsenal
+*The public demonstration uses Next.js, Express and PostgreSQL with synthetic data and a restricted shared account.*
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<details>
+<summary>Preview the product walkthrough</summary>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,react,typescript&theme=dark" />
-  
-  **Specialisation:** TypeScript, React, Modern UI/UX Implementation
-</div>
+![Shift-Flow walkthrough showing the operations dashboard and activity views with synthetic data.](https://raw.githubusercontent.com/DegsTerin/Shift-Flow/main/docs/assets/shift-flow-demo.gif)
+
 </details>
 
-<details open>
-<summary><b>⚙️ Backend & Services</b></summary>
+### [RAG-Challenge](https://github.com/DegsTerin/RAG-Challenge) · Answers grounded in documentation
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,python&theme=dark" />
-  
-  **Specialisation:** JavaScript, Node.js, Python, Microservices, REST APIs, WebSockets
-</div>
+**C# · ASP.NET Core · React · TypeScript · SQLite · OpenAI**
+
+A documentation assistant that retrieves evidence, produces answers with page-level citations and returns an explicit insufficient-evidence outcome when the eligible sources cannot support an answer.
+
+The implementation brings together immutable index generations, source provenance, citation validation and bounded provider access. The public demonstration queries PostgreSQL documentation in English or Portuguese.
+
+[**Try the demonstration**](https://rag-challenge-ac09.onrender.com/) · [Architecture and setup](https://github.com/DegsTerin/RAG-Challenge#architecture-and-technology) · [CI checks](https://github.com/DegsTerin/RAG-Challenge/actions/workflows/ci.yml)
+
+*The public interface is query-only. Its current corpus and operating limits are documented in the repository.*
+
+<details>
+<summary>Preview a grounded answer and its citations</summary>
+
+![RAG-Challenge showing a PostgreSQL answer, evaluated source coverage and page-level citations.](https://raw.githubusercontent.com/DegsTerin/RAG-Challenge/main/docs/assets/demo/rag-challenge-grounded-answer-en-gb.png)
+
 </details>
 
-<details open>
-<summary><b>🗄️ Databases & Data</b></summary>
+### [DB-Notifier](https://github.com/DegsTerin/DB-Notifier) · Database observability
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark" />
-  
-  **Specialisation:** Oracle, PostgreSQL, SQL Server, NoSQL Solutions
-</div>
+**C# · .NET · WPF · React · TypeScript · SQLite · PostgreSQL**
+
+An evolving database observability project with a Windows desktop application, provider adapters and a Web dashboard. It builds on the operational problem explored in my earlier PG-Notifier utility.
+
+The code explores authenticated PostgreSQL probes, durable observation delivery and recovery after interruptions, with focused tests for atomic persistence and concurrent writes.
+
+[**Explore the dashboard preview**](https://db-notifier-demo.onrender.com/) · [Architecture and current scope](https://github.com/DegsTerin/DB-Notifier#readme) · [Source and tests](https://github.com/DegsTerin/DB-Notifier/tree/main/tests)
+
+*The hosted dashboard uses synthetic data. Provider support and end-to-end operational validation remain under development.*
+
+<details>
+<summary>Preview the synthetic dashboard</summary>
+
+![DB-Notifier dashboard preview displaying synthetic database observations and status information.](https://raw.githubusercontent.com/DegsTerin/DB-Notifier/main/docs/assets/db-notifier-demo.png)
+
 </details>
 
-<details open>
-<summary><b>☁️ Infrastructure & DevOps</b></summary>
+## Engineering in the code
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes&theme=dark" />
-  
-  **Specialisation:** CI/CD Pipelines, Cloud Architecture, Containerisation, Server Admin
-</div>
-</details>
+| Area | Concrete example |
+| --- | --- |
+| **Backend and data integrity** | [Shift-Flow's PostgreSQL regression tests](https://github.com/DegsTerin/Shift-Flow/blob/main/prisma/users-tenant-isolation.postgres.test.mjs) exercise company isolation, aggregate transactions and concurrent changes. |
+| **Applied AI and retrieval** | [RAG-Challenge's answer-policy tests](https://github.com/DegsTerin/RAG-Challenge/blob/main/tests/RagChallenge.UnitTests/QuestionAnsweringServiceTests.cs) cover insufficient evidence, unsupported citations and bilingual responses. |
+| **Persistence and failure handling** | [DB-Notifier's observation-outbox tests](https://github.com/DegsTerin/DB-Notifier/blob/main/tests/DBNotifier.UnitTests/AgentObservationOutboxTests.cs) exercise atomic SQLite writes, ordering and concurrent persistence. |
+| **Frontend and user journeys** | [Shift-Flow's browser tests](https://github.com/DegsTerin/Shift-Flow/blob/main/tests/e2e/state07-homologation.spec.ts) cover sign-in, session restoration, dashboard metrics, themes and mobile navigation. |
+| **Delivery and automation** | [Shift-Flow's release workflow](https://github.com/DegsTerin/Shift-Flow/blob/main/.github/workflows/release-gates.yml) combines Node.js and .NET checks with disposable PostgreSQL and browser validation. |
 
-<details open>
-<summary><b>🔐 Enterprise Systems</b></summary>
+## More work
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,windows&theme=dark" /> 
-  
-  **Specialisation:** Infrastructure Management, System Administration, IT Operations
-    
-</div>
-</details>
+| Project | What it explores |
+| --- | --- |
+| [Maths-Quiz-Game](https://github.com/DegsTerin/Maths-Quiz-Game) | An Arduino maths game and a browser edition: embedded C++, display constraints and a testable JavaScript game engine. |
+| [PG-Notifier](https://github.com/DegsTerin/PG-Notifier) | PostgreSQL monitoring from the Windows tray, with PowerShell health checks, restart detection and [packaged releases](https://github.com/DegsTerin/PG-Notifier/releases). |
+| [Interactive-Data-Analytics](https://github.com/DegsTerin/Interactive-Data-Analytics) | IT salary exploration with Python, Pandas, Streamlit and Plotly. |
+| [Theotimus](https://github.com/DegsTerin/Theotimus) | A bilingual e-commerce project exploring Node.js, Express, PostgreSQL and Stripe checkout integration. |
 
----
+[Browse all public projects →](https://github.com/DegsTerin?tab=repositories)
 
-## 📊 Performance Metrics
+<details>
+<summary>GitHub activity</summary>
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DegsTerin&theme=dracula" alt="GitHub contribution overview" />
+<p>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DegsTerin&amp;theme=dracula" alt="GitHub contribution activity for DegsTerin" />
+</p>
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DegsTerin&amp;theme=dracula" alt="GitHub repository statistics for DegsTerin" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DegsTerin&amp;theme=dracula" alt="Languages across DegsTerin's public repositories" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DegsTerin&theme=dracula" alt="GitHub profile statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DegsTerin&theme=dracula" alt="Languages across public repositories" />
-</p>
-
-<p align="center">
-  <sub>Live engineering activity across public repositories. Private work is counted by GitHub without exposing repository details.</sub>
-</p>
+</details>
 
 ---
 
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ PgNotifier</h3>
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/DegsTerin/pg-notifier/main/docs/images/PgNotifier.png" width="100%" alt="PgNotifier Windows tray application" />
-      </div>
-      <p align="center">
-        PostgreSQL reliability monitor for Windows with health checks, restart detection, desktop alerts, diagnostic logs and installer packaging.
-        <br />
-        <img src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell 5.1+" />
-        <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-        <br />
-        <a href="https://github.com/DegsTerin/pg-notifier"><strong>🔎 Explore Repository</strong></a>
-        ·
-        <a href="https://github.com/DegsTerin/pg-notifier/releases/tag/v1.0.17"><strong>📦 Download v1.0.17</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Interactive Data Analytics</h3>
-      <div align="center">
-        <img src="https://github.com/user-attachments/assets/1d42bc76-0ea1-4676-80c9-0c964724a8e3" width="100%" alt="Interactive Data Analytics dashboard" />
-      </div>
-      <p align="center">
-        Streamlit dashboard for exploring IT salary data through interactive filters, KPIs and Plotly visualisations.
-        <br />
-        <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python analytics" />
-        <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit dashboard" />
-        <br />
-        <a href="https://github.com/DegsTerin/Interactive-Data-Analytics"><strong>🔎 Explore Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏛️ Theotimus</h3>
-      <div align="center">
-        <img src="https://github.com/DegsTerin/Theotimus/blob/main/assets/theotimus.onrender.com_index3.png?raw=true" width="100%" alt="Theotimus" />
-      </div>
-      <p align="center">
-        Bilingual e-commerce platform built with Node.js, Express, PostgreSQL and Stripe, with Playwright coverage for critical purchase flows.
-        <br />
-        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js and Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-Stripe-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL and Stripe" />
-        <br />
-        <a href="https://github.com/DegsTerin/Theotimus"><strong>🔎 Explore Repository</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Maths Quiz Game</h3>
-      <div align="center">
-        <img src="https://github.com/DegsTerin/Maths_Quiz_Game/blob/main/simulation/wokwi.png?raw=true" width="100%" alt="Arduino Maths Quiz Game simulation" />
-      </div>
-      <p align="center">
-        Embedded Arduino game with adaptive difficulty, LCD scoring, TM1637 displays and responsive LED feedback.
-        <br />
-        <img src="https://img.shields.io/badge/Arduino-Embedded-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino embedded project" />
-        <img src="https://img.shields.io/badge/C%2B%2B-Hardware-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ hardware project" />
-        <br />
-        <a href="https://github.com/DegsTerin/Maths_Quiz_Game"><strong>🔎 Explore Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center" size="100px">
-  <sub>Made with 💻 and dedication by <a href="https://github.com/DegsTerin">DegsTerin</a>
-
-[![GitHub](https://img.shields.io/github/followers/DegsTerin?label=follow&style=social)](github.com/DegsTerin)</sub>
-
-</div>
+Interested in backend development, database tooling or applied AI? [Connect with me on LinkedIn](https://www.linkedin.com/in/brunnaraujo/).
