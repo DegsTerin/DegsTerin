@@ -208,6 +208,24 @@ With **years of hands-on experience** in enterprise IT, I've transformed complex
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Theotimus</h3>
+      <a href="https://theotimus.onrender.com/">
+        <img src="https://raw.githubusercontent.com/DegsTerin/Theotimus/main/assets/theotimus.onrender.com_index3.png" alt="Theotimus bilingual storefront" width="100%" />
+      </a>
+      <p>Bilingual full-stack e-commerce platform using Node.js, Express, PostgreSQL, Stripe and Playwright flow tests.</p>
+      <p><a href="https://theotimus.onrender.com/"><strong>Live demo</strong></a> | <a href="https://github.com/DegsTerin/Theotimus"><strong>Repository</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Maths Quiz Game</h3>
+      <a href="https://github.com/DegsTerin/Maths_Quiz_Game">
+        <img src="https://raw.githubusercontent.com/DegsTerin/Maths_Quiz_Game/main/assets/media/maths-quiz-game-cover.png" alt="Arduino Maths Quiz Game" width="100%" />
+      </a>
+      <p>Arduino learning game with adaptive difficulty, physical controls, multiple displays, documented hardware and reproducible sketches.</p>
+      <p><a href="https://github.com/DegsTerin/Maths_Quiz_Game"><strong>Repository and build documentation</strong></a></p>
+    </td>
+  </tr>
 </table>
 
 ---
